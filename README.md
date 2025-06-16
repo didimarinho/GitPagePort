@@ -12,7 +12,7 @@ Este site foi criado para apresentar minhas habilidades, projetos e trajetória 
 
 ## 🌐 Acesse o site
 
-🔗 [https://didimarinho.github.io/GitPages](https://didimarinho.github.io/GitPages)
+🔗 [https://didimarinho.github.io/GitPages](https://didimarinho.github.io/GitPagePort/)
 
 ---
 
